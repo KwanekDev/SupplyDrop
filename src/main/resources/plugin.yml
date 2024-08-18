@@ -1,0 +1,6 @@
+name: SupplyDrop
+main: pl.kwanek.supplydrop.SupplyDrop
+version: 1.0
+api-version: 1.16
+commands: {}
+permissions: {}

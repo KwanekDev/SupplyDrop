@@ -1,0 +1,6 @@
+messages:
+  drop_started: "Supply drop is falling from the sky!"
+  drop_landed: "Supply drop has landed. Go get it!"
+  drop_coords: "Supply Drop at coordinates X={x}, Z={z}"
+  forcesupply_success: "&aSupply drop spawned above you!"
+  forcesupply_console: "&cOnly players can use this command!"

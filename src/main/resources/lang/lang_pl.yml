@@ -1,0 +1,6 @@
+messages:
+  drop_started: "Zrzut zaopatrzenia spada z nieba!"
+  drop_landed: "Zrzut zaopatrzenia wylądował. Idź po niego!"
+  drop_coords: "Zrzut zaopatrzenia na koordynatach X={x}, Z={z}"
+  forcesupply_success: "&aZrzut zaopatrzenia pojawił się nad Tobą!"
+  forcesupply_console: "&cTylko gracze mogą użyć tej komendy!"

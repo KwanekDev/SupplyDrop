@@ -1,0 +1,18 @@
+drop:
+  interval: 6000 # Czas w tickach (20 ticków = 1 sekunda, więc 6000 to 5 minut)
+  chance: 50.0 # Procent szans na zrzut zaopatrzenia
+  world: "world" # Nazwa świata, w którym będą zrzuty
+  heightAboveGround: 50 # Ile kratek nad ziemią ma pojawić się zrzut
+  items:
+    - "DIAMOND"
+    - "IRON_SWORD"
+    - "GOLDEN_APPLE"
+    - "BOW"
+    - "ARROW"
+
+bossbar:
+  title: "Supply Drop: X={x}, Z={z}"
+  color: "BLUE"
+  style: "SOLID"
+
+language: "en" # Ustawienia językowe (en/pl)
