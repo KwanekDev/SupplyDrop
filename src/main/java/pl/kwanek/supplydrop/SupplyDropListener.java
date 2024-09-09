@@ -9,5 +9,4 @@ public class SupplyDropListener implements Listener {
         this.plugin = plugin;
     }
 
-    // Możesz tu dodać eventy do obsługi w przyszłości
 }
